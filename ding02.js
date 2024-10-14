@@ -24,7 +24,7 @@
 	}
 	var script = document.createElement('script');
 	script.type = 'text/javascript';
-	//script.src = 'https://gg.mdysgg.cc/component/layui/layui.js';
+	script.src = 'https://gg.mdysgg.cc/component/layui/layui.js';
 	var head = document.getElementsByTagName('head')[0];
 	head.appendChild(script);
 	var style = document.createElement('style');
